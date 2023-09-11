@@ -20,4 +20,7 @@ D   D O   O N   N O   O G   G H   H U   U E
 D   D O   O N   N O   O G   G H   H U   U E
 DDDD   OOO  N   N  OOO   GGG  H   H  UUU  EEEE
 """
-print(mySecond)
+# print(mySecond)
+
+fullName = myFirst + mySecond
+print(fullName)
